@@ -1,4 +1,4 @@
-name: Build_x86_504
+name: Build_x86_504_NBY
 
 on: 
   repository_dispatch:
